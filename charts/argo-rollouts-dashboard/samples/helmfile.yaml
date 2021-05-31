@@ -6,5 +6,6 @@ releases:
   - name: argo-rollouts-dashboard
     namespace: default
     chart: mikutas/argo-rollouts-dashboard
+    version: 0.2.0
     values:
       - values.yaml
