@@ -3,12 +3,12 @@ entries:
   argo-rollouts-dashboard:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-05-31T09:56:10.499375985Z"
+    created: "2021-05-31T10:18:55.218462733Z"
     description: A Helm chart for Kubernetes
-    digest: 3f45370e88de5545a56a23ca01843cbc01a5ff1bbe52ff764a5bfffa6894fe21
+    digest: fe6c4498101c256ef49bc2ad7e1248cd2c22330ae5576abb6f95dbf46873548d
     name: argo-rollouts-dashboard
     type: application
     urls:
-    - https://github.com/mikutas/helm-charts/releases/download/argo-rollouts-dashboard-0.2.0/argo-rollouts-dashboard-0.2.0.tgz
-    version: 0.2.0
-generated: "2021-05-31T09:56:10.499387085Z"
+    - https://github.com/mikutas/helm-charts/releases/download/argo-rollouts-dashboard-0.1.0/argo-rollouts-dashboard-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-31T10:18:55.218467933Z"
