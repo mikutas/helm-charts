@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: latest
+  tag: ""
 
 imagePullSecrets: []
 nameOverride: ""
@@ -80,6 +80,3 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
-
-rbac:
-  writeOperationEnabled: false
